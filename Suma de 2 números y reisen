@@ -1,0 +1,39 @@
+#include <iostream>
+#include <conio.h>
+#include <stdio.h>
+using namespace std;
+
+ int main() {
+    //Church
+
+    int a,b,c;
+    printf("Programa que suma dos numeros \n");
+    printf("Ingresar el primer numero : \n");
+    scanf("%d" ,&a);
+    printf("Ingresa el segundo numero : \n");
+    scanf("%d" ,&b);
+    c=a+b;
+    printf("\n El resultado es : %d \n" ,c);
+
+                       
+cout<<"-----く__,.ヘヽ.　　　　/　,ー､ 〉\n";
+cout<<" ------------＼ ', !-─‐-i　/　/´\n";
+cout<<"----------／｀ｰ'　　　 L/／｀ヽ､\n";
+cout<<"---------/　 ／,　 /|　 ,　 ,　　　 ',\n";
+cout<<"---------ｲ 　/ /-‐/　ｉ　L_ ﾊ ヽ!　 i\n";
+cout<<"---------ﾚ ﾍ 7ｲ｀ﾄ　 ﾚ'ｧ-ﾄ､!ハ|　    |\n";
+cout<<"　　　　 !,/7 '0'　　 ´0iソ| 　     |　　　\n";
+cout<<"----------|.从'　　_　　 ,,,, / |./  |\n";
+cout<<"　　　　 ﾚ'| i＞.､,,__　_,.イ /   .i 　|\n";
+cout<<"----------ﾚ'| | / k_７_/ﾚ'ヽ,　ﾊ.　|\n";
+cout<<"-------------| |/i 〈|/　 i　,.ﾍ |　i　|\n";
+cout<<"------------.|/ /　ｉ： 　 ﾍ!　　＼　|\n";
+cout<<"-------------kヽ>､ﾊ 　 _,.ﾍ､ 　   /  ､!\n";
+cout<<"------------- !'〈//｀Ｔ´', ＼ ｀'7'ｰr'\n";
+cout<<"-------------ﾚ'ヽL__|___i,___,ンﾚ|ノ\n";
+cout<<"-----------------ﾄ-,/　|___./\n";
+cout<<"'                ｰ'　　!_,.:\n";
+cout<<" fin del programa \n";  
+
+    return 0;
+}
